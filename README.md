@@ -17,8 +17,9 @@ Currently exploring advanced web development and honing my skills in building ef
 
 ## 📫 Let’s Connect
 Feel free to reach out if you’d like to collaborate or chat:
-- **LinkedIn**: [Your LinkedIn URL](#)
-- **Email**: [Your Email Address](#)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khatir-shahidi/)
+- **Email**: [khatirshahidi02@gmail.com](mailto:khatirshahidi02@gmail.com)
+- **WhatsApp**: [Chat on WhatsApp](https://wa.me/601137879125)
 
 ---
 

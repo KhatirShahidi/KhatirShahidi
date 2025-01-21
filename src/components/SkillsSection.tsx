@@ -99,7 +99,6 @@ function SkillsSection(): ReactElement {
               </div>
             </div>
 
-            <div className={styles.row}></div>
           </div>
         </div>
 
@@ -136,8 +135,6 @@ function SkillsSection(): ReactElement {
                 <h2>Adobe Illustrator</h2>
               </div>
             </div>
-
-            <div className={styles.row}></div>
           </div>
         </div>
       </div>
@@ -148,7 +145,7 @@ function SkillsSection(): ReactElement {
           <img src="/icons/united-kingdom.svg" alt="UK" />
         </span>
         <span>
-          Saya boleh cakap <strong>Melayu</strong>
+          Saya boleh berbahasa <strong>Melayu</strong>
           <img src="/icons/malaysia.svg" alt="MS" />
         </span>
       </div>
